@@ -9,3 +9,8 @@ C# ASP .NET Core Web API : Journey of microservice Implementation
 
 
 ![image](https://user-images.githubusercontent.com/85032095/197598578-d11f2db5-72d6-40e9-82c3-0bab60abded5.png)
+
+
+Documentation
+
+[APILogging.pdf](https://github.com/ranganathanarul/SeriloggingCSharp/files/9854309/APILogging.pdf)
